@@ -1,6 +1,6 @@
 Okay quick here are some useful things.
 
-To reach me, I'm always on Discord: `Tim Graupmann#0611`. Join my [Discord Server](https://discord.gg/g7vZDkbnKT) so I can help support your project.
+To reach me, I'm always on Discord as user `tgraupmann`. Join my [Discord Server](https://discord.gg/g7vZDkbnKT) so I can help support your project.
 
 Subscribe to my [YouTube channel](https://www.youtube.com/user/TagenigmaLLC) so you can get notifications when I put out developer-focused videos.
 

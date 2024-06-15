@@ -4,4 +4,4 @@ To reach me, I'm always on Discord as user `tgraupmann`. Join my [Discord Server
 
 Subscribe to my [YouTube channel](https://www.youtube.com/user/TagenigmaLLC) so you can get notifications when I put out developer-focused videos.
 
-In most cases, I'm helping you with Razer Chroma RGB. Check out the [Animation Guide](https://chroma.razer.com/ChromaGuide/) to find all the plugins.
+In most cases, I'm helping you with Razer Chroma Sensa for RGB lighting and haptics. Check out the [Animation Guide](https://chroma.razer.com/ChromaGuide/) to find all the plugins.

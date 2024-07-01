@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgraupmann)](https://github.com/tgraupmann/github-readme-stats)
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgraupmann&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgraupmann&layout=donut-vertical)](https://github.com/tgraupmann/github-readme-stats)
 
 Okay quick here are some useful things.
 

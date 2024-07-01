@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgraupmann)](https://github.com/tgraupmann/github-readme-stats)
+
 Okay quick here are some useful things.
 
 To reach me, I'm always on Discord as user `tgraupmann`. Join my [Discord Server](https://discord.gg/g7vZDkbnKT) so I can help support your project.

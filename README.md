@@ -1,3 +1,5 @@
+Stats based on public repositories:
+
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgraupmann&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgraupmann&layout=donut-vertical)](https://github.com/tgraupmann/github-readme-stats)

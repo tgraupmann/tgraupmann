@@ -6,8 +6,8 @@ Stats based on public repositories:
 
 Okay quick here are some useful things.
 
-To reach me, I'm always on Discord as user `tgraupmann`. Join my [Discord Server](https://discord.gg/g7vZDkbnKT) so I can help support your project.
+To reach me, I'm always on Discord as user `tgraupmann`.
 
 Subscribe to my [YouTube channel](https://www.youtube.com/user/TagenigmaLLC) so you can get notifications when I put out developer-focused videos.
 
-In most cases, I'm helping you with Razer Chroma Sensa for RGB lighting and haptics. Check out the [Animation Guide](https://chroma.razer.com/ChromaGuide/) to find all the plugins.
+If you are doing a game integration see the latest documentation about the [WYVRN SDK](https://doc.wyvrn.com/).
